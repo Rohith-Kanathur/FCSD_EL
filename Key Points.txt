@@ -1,0 +1,11 @@
+192.168.71.206
+
+1) https://www.centlinux.com/2019/01/configure-x11-forwarding-putty-xming-windows.html
+2) Install xming
+3) echo $DISPLAY should not be blank
+4) https://stackoverflow.com/questions/48735671/use-vim-retab-to-solve-taberror-inconsistent-use-of-tabs-and-spaces-in-indentat
+5) https://discuss.luxonis.com/d/175-depthai-gen2-example-01-rgb-preview-fail-to-run-on-raspberry-pi-zero-w/17
+6) https://kb.iu.edu/d/bdnt
+7) https://zoomadmin.com/HowToInstall/UbuntuPackage/x11-apps
+8) https://www.devmanuals.net/install/ubuntu/ubuntu-12-04-lts-precise-pangolin/install-x11-apps.html
+9) https://superuser.com/questions/310197/how-do-i-fix-a-cannot-open-display-error-when-opening-an-x-program-after-sshi
